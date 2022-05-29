@@ -9,7 +9,7 @@ The STDv2 is part of a larger project and turns a dump trolley (a hand pulled ca
 Version 1 of this device sent/received messages with websockets [Call-A-Robot](https://github.com/LCAS/CallARobot). V2 uses MQTT messaging. There is a sub-project that integrates V2 into the V1 system [CAR Forwarders](https://github.com/18684092/CAR-Forwarders) by listening to MQTT messages and forwarding to a Websockets server (and visa-versa).
 
 ## Repo Files
-The files contained within are uploaded to the ESP32 with a fuller description within the [Wiki](https://github.com/18684092/Smart-Trolley-V2/wiki)
+The files contained within are informational (no code) with a fuller description within the [Wiki](https://github.com/18684092/Smart-Trolley-V2/wiki)
 
 ## Updates
 This work is on going and being added to daily at present (29/05/2022) ...
