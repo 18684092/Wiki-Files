@@ -10,3 +10,6 @@ Version 1 of this device sent/received messages with websockets [Call-A-Robot](h
 
 ## Repo Files
 The files contained within are uploaded to the ESP32 with a fuller description within the [Wiki](https://github.com/18684092/Smart-Trolley-V2/wiki)
+
+## Updates
+This work is on going and being added to daily at present (29/05/2022) ...
