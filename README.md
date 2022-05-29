@@ -1,7 +1,7 @@
 # Smart-Trolley-Device v2 (STDv2)
 The STDv2 runs on an ESP32-SIM7000G circuit board that has been flashed with MicroPython
 (see [ESP32 flashing and general details](https://github.com/18684092/ESP32-MicroPython) or
-[specific developement board](https://github.com/18684092/CAR)
+[specific developement board](https://github.com/18684092/CAR) which both have a README and Wiki. Both of these repos are no longer updated and the Wiki files give general information but may no longer be correct although probably still useful as background notes.)
 
 ## Part of a larger project
 The STDv2 is part of a larger project and turns a dump trolley (a hand pulled cart / barrow) into a smart trolley by transmitting its GPS location to a central server. The user / operator can press a button to order a robot to arrive at the STDv2 location, cancel this command or tell the robot to return to base. In the future the idea is that the robot will automatically known when to arrive, pickup a tray and return to base through the use of Artificial Intelligence (AI).
